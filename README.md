@@ -1,6 +1,6 @@
-# CampusGate - Campus Recruitment Platform
+#  JobSphere - Campus Recruitment Platform
 
-CampusGate is a backend application built to streamline the campus recruitment process. It provides RESTful APIs for managing users, students, job postings, applications, and interviews. All functionalities can be tested using Postman or similar API testing tools.
+JobSphere is a backend application built to streamline the campus recruitment process. It provides RESTful APIs for managing users, students, job postings, applications, and interviews. All functionalities can be tested using Postman or similar API testing tools.
 
 ---
 
@@ -57,7 +57,7 @@ CampusGate is a backend application built to streamline the campus recruitment p
 ## Folder Structure
 
 ```bash
-CampusGate/
+JobSphere/
 ├── src/main/java/     # Contains controllers, services, and DAO classes
 ├── src/main/resources/
 │   └── application.properties
